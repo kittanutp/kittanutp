@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kittanutp 
-- 👀 I’m interested in game development and programing.
-- 🌱 I’m currently re-learning python in  order to find oppurtunity in developer job 
-- 💞️ I’m looking to collaborate on programing concept and project development.
+- 👀 I’m interested in coding and alghorithm
+- 🌱 I’m currently working as software backend dev. 
 - 📫 How to reach me FB Messenger : Max Pongjirapat
 
 <!---
