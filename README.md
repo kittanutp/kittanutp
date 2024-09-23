@@ -9,7 +9,7 @@
 - 🔧 Backend Developer with experience in **web application development**.
 - 🌱 Currently diving into the **Go programming language**.
 - 🎯 Trying to learn **design patterns** and **clean code architecture**.
-- 🎨 Struggling a bit with **CSS** (but getting there!).
+- 🎨 Struggling a bit with **CSS**.
 
 ---
 
